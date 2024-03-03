@@ -40,11 +40,7 @@ streamlit run app.py
 
 ## Example
 
-![image](https://github.com/ThatSpaceCowboy/Mashup-Maker/assets/41112158/f8d03ca9-395d-4138-8e66-062c4c63348d)
-
-### Result :
-
-https://github.com/ThatSpaceCowboy/Mashup-Maker/assets/41112158/35f62805-f822-4852-a7b7-44c0baa8be59
+![image](https://github.com/arnavroh45/Song-Mashup-Creator/assets/58484869/067af8e7-59c7-45bf-8c5e-907bfd464dd3)
 
 ## License
 
