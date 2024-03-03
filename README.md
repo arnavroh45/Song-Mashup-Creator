@@ -2,20 +2,20 @@
 
 This web application, developed using Streamlit, enables users to generate mashups of YouTube videos effortlessly. Users can input the artist's name, determine the number of clips desired, set the duration for each clip, and specify the output filename. The application seamlessly retrieves videos from YouTube based on the artist's name, proceeds to download and process the clips accordingly, and finally merges them into a unified mashup audio file.
 
-Project is now live at https://mashup-maker.streamlit.app
+Project is now live at https://song-mashup-arnavsharma.streamlit.app
 
 ## How to Run
 
 1. Clone the repository:
 
 ```
-git clone https://github.com/ThatSpaceCowboy/Mashup-Maker.git
+git clone https://github.com/arnavroh45/Song-Mashup-Creator.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd Mashup-Maker
+cd Song-Mashup-Creator
 ```
 
 3. Install the dependencies:
